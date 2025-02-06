@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class ProgChall3 here.
+ * An exercise for practicing escape characters
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Qianyi Li
+ * @version 1.0
  */
 public class ProgChall3
 {
