@@ -15,9 +15,9 @@ public class Lab2P1
         z=x*y;
         zz=1-z;
         
-        System.out.println("the value of x is:"+x);
-        System.out.println("the value of y is:"+y);
-        System.out.println("the value of z(x*y) is:"+z);
-        System.out.println("the value of 1 - z is:"+zz);
+        System.out.println("the value of x is:"+ x);
+        System.out.println("the value of y is:"+ y);
+        System.out.println("the value of z(x*y) is:"+ z);
+        System.out.println("the value of 1 - z is:"+ zz);
     }
 }
